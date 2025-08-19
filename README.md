@@ -18,9 +18,9 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 7. XGBoost (Scikit-learn)
 8. Artificial Neural Network with 1 Hidden layer (Keras)
 
-Accuracy achieved: 95% (Random Forest)
+Accuracy achieved: 90% (Random Forest)
 
-Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
+Dataset used: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 This project is a **Machine Learning-based predictive model** designed to analyze patient health data and predict the likelihood of heart disease. The primary objective is to apply **AI/ML algorithms** to real-world medical data and demonstrate how data mining techniques can provide valuable insights in the healthcare domain.  
 
@@ -47,7 +47,8 @@ By comparing multiple models, the project evaluates their accuracy and reliabili
 - **Python** – main programming language.  
 - **Pandas, NumPy** – data preprocessing & manipulation.  
 - **Matplotlib, Seaborn** – data visualization.  
-- **Scikit-learn** – machine learning models & evaluation.  
+- **Scikit-learn** – machine learning models & evaluation. 
+- **TensorFlow, Keras** – deep learning model development. 
 - **Jupyter Notebook / Google Colab** – project implementation.  
 
 ---
@@ -62,11 +63,12 @@ By comparing multiple models, the project evaluates their accuracy and reliabili
 
 ## 📂 Project Structure  
 ```
-/heart-disease-prediction
+/Heart Disease Prediction
 │── README.md
 │── heart.csv
 │── Heart_Disease_Prediction.ipynb
 │── requirements.txt
+│── Project Report.pdf
 
 ```  
 
@@ -76,7 +78,7 @@ By comparing multiple models, the project evaluates their accuracy and reliabili
 1. Clone the repository:  
    ```bash
    git clone https://github.com/mineabhii/Heart-Disease-Prediction.git
-   cd heart-disease-prediction
+   cd Heart-Disease-Prediction
    ```  
 
 2. Install the required dependencies:  
