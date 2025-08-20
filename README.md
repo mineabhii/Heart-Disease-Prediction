@@ -18,7 +18,7 @@ I've used a variety of Machine Learning algorithms, implemented in Python, to pr
 7. XGBoost (Scikit-learn)
 8. Artificial Neural Network with 1 Hidden layer (Keras)
 
-Accuracy achieved: 90% (Random Forest)
+Accuracy achieved: 100% (Decision Tree, Random Forest & XGBoost)
 
 Dataset used: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
